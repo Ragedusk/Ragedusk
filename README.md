@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ragedusk
-- 👀 I’m interested in chess
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ragehunter
+- 👀 I’m interested in chess and anything related to that
+- 🌱 I’m currently learning
+- 📫 You can reach me from lichess.org
 
 <!---
 Ragedusk/Ragedusk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
